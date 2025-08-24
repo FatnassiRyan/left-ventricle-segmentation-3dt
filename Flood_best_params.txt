@@ -1,0 +1,98 @@
+Flood starting : 
+
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": false,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7251319352337272
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": 1,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7269039137381541
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": 2,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7281882396139773
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 2,
+    "Equalization": true,
+    "Morpho": false,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7522518861282326
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 2,
+    "Equalization": true,
+    "Morpho": 1,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7528572760541578
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 2,
+    "Equalization": true,
+    "Morpho": 2,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.752990209168724
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 3,
+    "Equalization": true,
+    "Morpho": false,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7684642975563603
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 3,
+    "Equalization": true,
+    "Morpho": 2,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7688985876161167
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 4,
+    "Equalization": true,
+    "Morpho": false,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7908590794322238
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 4,
+    "Equalization": true,
+    "Morpho": 2,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7913342695518718
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 4,
+    "Equalization": true,
+    "Morpho": false,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.793992582531401
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 4,
+    "Equalization": true,
+    "Morpho": 2,
+    "Initial tolerance": 7
+}
+ last best optimal counter 0.7944348161625182

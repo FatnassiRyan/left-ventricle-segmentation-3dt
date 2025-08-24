@@ -1,0 +1,71 @@
+Fourier starting : 
+
+{
+    "param1": 150,
+    "param2": 30,
+    "slice": 0,
+    "equalization": true
+}
+ last best optimal counter 82
+{
+    "param1": 150,
+    "param2": 30,
+    "slice": 1,
+    "equalization": true
+}
+ last best optimal counter 84
+{
+    "param1": 150,
+    "param2": 30,
+    "slice": 2,
+    "equalization": true
+}
+ last best optimal counter 84
+{
+    "param1": 150,
+    "param2": 30,
+    "slice": 3,
+    "equalization": true
+}
+ last best optimal counter 84
+{
+    "param1": 150,
+    "param2": 32,
+    "slice": 1,
+    "equalization": true
+}
+ last best optimal counter 86
+{
+    "param1": 150,
+    "param2": 32,
+    "slice": 2,
+    "equalization": true
+}
+ last best optimal counter 86
+{
+    "param1": 150,
+    "param2": 32,
+    "slice": 3,
+    "equalization": true
+}
+ last best optimal counter 87
+{
+    "param1": 150,
+    "param2": 34,
+    "slice": 2,
+    "equalization": true
+}
+ last best optimal counter 88
+{
+    "param1": 170,
+    "param2": 30,
+    "slice": 1,
+    "equalization": true
+}
+ last best optimal counter 91
+{
+    "param1": 170,
+    "param2": 30,
+    "slice": 1,
+    "equalization": true
+}

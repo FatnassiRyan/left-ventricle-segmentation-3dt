@@ -1,0 +1,58 @@
+Fourier starting : 
+
+{
+    "rmax": 30,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 50,
+    "max_edge_threshold": 100,
+    "equalization": true
+}
+ last best optimal counter 22
+{
+    "rmax": 30,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 50,
+    "max_edge_threshold": 120,
+    "equalization": true
+}
+ last best optimal counter 22
+{
+    "rmax": 30,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 60,
+    "max_edge_threshold": 100,
+    "equalization": true
+}
+ last best optimal counter 23
+{
+    "rmax": 32,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 60,
+    "max_edge_threshold": 100,
+    "equalization": true
+}
+ last best optimal counter 23
+{
+    "rmax": 32,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 70,
+    "max_edge_threshold": 120,
+    "equalization": true
+}
+ last best optimal counter 23
+{
+    "rmax": 34,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 60,
+    "max_edge_threshold": 100,
+    "equalization": true
+}
+ last best optimal counter 23
+{
+    "rmax": 34,
+    "bin_threshold": 0.55,
+    "min_edge_threshold": 70,
+    "max_edge_threshold": 120,
+    "equalization": true
+}
+ last best optimal counter 23

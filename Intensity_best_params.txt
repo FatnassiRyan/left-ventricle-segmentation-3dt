@@ -1,0 +1,73 @@
+Intensity starting : 
+
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": false
+}
+ last best optimal counter 0.5399274697392424
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": 1
+}
+ last best optimal counter 0.5404823973345451
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": 2
+}
+ last best optimal counter 0.5414775549726051
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 2,
+    "Equalization": false,
+    "Morpho": false
+}
+ last best optimal counter 0.554782738971621
+{
+    "VolumeRatio": 1.5,
+    "MedianRadius": 2,
+    "Equalization": false,
+    "Morpho": 1
+}
+ last best optimal counter 0.5550347516913476
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": false
+}
+ last best optimal counter 0.5723588625772368New Intensity starting : 
+
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 1,
+    "Equalization": true,
+    "Morpho": false
+}
+ last best optimal counter 0.5723588625772368
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 4,
+    "Equalization": true,
+    "Morpho": false
+}
+ last best optimal counter 0.5736096406155723
+{
+    "VolumeRatio": 1.6,
+    "MedianRadius": 4,
+    "Equalization": false,
+    "Morpho": false
+}
+ last best optimal counter 0.6000382893430537
+{
+    "VolumeRatio": 1.7,
+    "MedianRadius": 4,
+    "Equalization": false,
+    "Morpho": false
+}
+ last best optimal counter 0.6028968493597872
