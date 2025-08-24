@@ -5,7 +5,13 @@ This project implements a custom pipeline for **automatic segmentation of the le
 > **"Automatic Left Ventricle Segmentation Using Iterative Thresholding and an Active Contour Model With Adaptation on Short-Axis Cardiac MRI"**  
 > by FATNASSI & et BEN EL GHALI.
 
-📄 Final Report: [`Rapport BEN EL GHALI_FATNASSI.pdf`](./Rapport%20BEN%20EL%20GHALI_FATNASSI.pdf)  
+## 📄 Report
+
+The full project report is included in this repository:  
+📎 [`Rapport BEN EL GHALI_FATNASSI.pdf`](./Rapport%20BEN%20EL%20GHALI_FATNASSI.pdf)
+
+> ⚠️ **Note**: The full report is written in **French** as part of the academic requirements .
+
 👥 Collaborators: **Rayan FATNASSI** & **Amir Loris BEN EL GHALI**
 
 ---
